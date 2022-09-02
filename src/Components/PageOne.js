@@ -12,6 +12,12 @@ export default function Home() {
         <S.H2>What "HTTPS" means?</S.H2>
         <S.P>R: HTTPS means Hyper Text Transfer Protocol Secure</S.P>
         <S.H2>Stateless is...?</S.H2>
+        <S.P>
+          R: Na aplicação Stateless nenhuma informação/memória é guardada. Ou
+          seja, nenhum registro ou estado de todas as interações antigas na
+          aplicação são armazenadas e cada interação é tratada conforme as
+          informações disponiveis para a interação.
+        </S.P>
         <S.H2>Subjective pronouns are used to indicate what?</S.H2>
         <S.P>
           R: These pronouns indicate who performs an action or who are described
