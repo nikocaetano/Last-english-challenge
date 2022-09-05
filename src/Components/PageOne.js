@@ -29,7 +29,7 @@ export default function Home() {
           to complement or change the meaning of the main verbs in sentences
         </S.P>
         <S.H2>What Should means?</S.H2>
-        <S.P>Should means Deveria</S.P>
+        <S.P>Should means Deveria, it indicate wishes, advice and suggestions</S.P>
         <S.H2>*EM PORTUGUÊS* - Construa essas seguintes frases em inglês:</S.H2>
       </S.Section>
       <S.Div>
